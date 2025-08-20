@@ -27,8 +27,10 @@ It also assigns vehicles to lanes and saves results in both a CSV file and a dem
 ---
 
 ## ⚙️ Installation
-
+make a directory say 'traffic-counter'
+then navigate into the same in cmd
 cd traffic-counter
+
 2. Create & Activate Virtual Environment (recommended)
 
 python -m venv venv
