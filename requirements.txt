@@ -1,0 +1,9 @@
+ultralytics==8.0.196
+
+opencv-python
+
+pandas
+
+filterpy
+
+lap
